@@ -18,7 +18,6 @@ A complete Verilog implementation of the Xilinx DSP48A1 slice, a high-performanc
 - [Simulation](#simulation)
 - [Usage Examples](#usage-examples)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## 🔍 Overview
 
@@ -164,7 +163,7 @@ DSP48A1/
 │   ├── timing diagrams/        # Timing analysis images
 │   └── schematic views/        # Additional schematic views
 └── docs/                       # Additional documentation
-    └── specifications/         # Reference documents
+    └──                         # Reference documents
 ```
 
 ## 🚀 Getting Started
@@ -273,9 +272,6 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 3. Add test cases for new features
 4. Update documentation as needed
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
 
